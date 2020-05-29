@@ -25,4 +25,8 @@ Well, this might be a common case until the *Network app* become popular or till
 Here are some related projects repositories in github. This is indented for a reference to the contributors and developers of **Network App**   
 **1. https://github.com/Shariq03/Wifidirect-Chat**    
 **2. https://github.com/life0fun/wifi-direct-chat**  
-**3. https://github.com/kajogo777/HiveChat**  
+**3. https://github.com/kajogo777/HiveChat** 
+
+### Concept of working
+Here is youtube video which explains the concept behind the working of a related project.  
+**https://www.youtube.com/watch?v=GogPPT3ePGQ**

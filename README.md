@@ -7,18 +7,6 @@
   <img src="https://github.com/nestainnovations/Network/blob/master/img/concept1.jpg?raw=true">
 </p>
 
-<p align="center">
-  <img src="https://github.com/nestainnovations/Network/blob/master/img/concept4.png?raw=true">
-</p>
-
-<p align="center">
-  <img src="https://github.com/nestainnovations/Network/blob/master/img/concept2.png?raw=true">
-</p>
-
-<p align="center">
-  <img src="https://github.com/nestainnovations/Network/blob/master/img/concept3.png?raw=true">
-</p>
-
 ### How does it work if a user is isolated or not part of a network?
 Well, this might be a common case until the *Network app* become popular or till more users get installed this application. In this situation only there is a need of internet connection for any one of the user in a network to connect with other network group or user through our server. By using the same method a user can connect with other user in overseas.Firebase server is used for this service.
 ## Features of Network App
@@ -42,3 +30,15 @@ Here are some related projects repositories in github. This is indented for a re
 ### Concept of working
 Here is youtube video which explains the concept behind the working of a related project.  
 **https://www.youtube.com/watch?v=GogPPT3ePGQ**
+
+<p align="center">
+  <img src="https://github.com/nestainnovations/Network/blob/master/img/concept4.png?raw=true">
+</p>
+
+<p align="center">
+  <img src="https://github.com/nestainnovations/Network/blob/master/img/concept2.png?raw=true">
+</p>
+
+<p align="center">
+  <img src="https://github.com/nestainnovations/Network/blob/master/img/concept3.png?raw=true">
+</p>

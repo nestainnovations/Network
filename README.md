@@ -10,13 +10,13 @@
 ### How does it work if a user is isolated or not part of a network?
 Well, this might be a common case until the *Network app* become popular or till more users get installed this application. In this situation only any one of the user in a network can connect with the internet and connect with other network group or user through our server. By using the same method a user can connect with other user in overseas.Firebase server is used for this service.
 ## Features of Network App
-**1.  Wall:** users can post text/audio/image/video in a commmon wall. the posts in the wall will be public and is shared with others in the network and the other network which is connected.  
+**1.  Wall:** users can post text/audio/image/video in a commmon wall. the posts in the wall will be public and is shared with others in the network and the other network which is connected.    
 **2.  Local Profile:** users can create a local profile and able to keep a profile picture as well as a profile name. This profile will be created in the device and not in server.This profile name and profile picture is used to identy each other in the network.  
-**3.  Private message:** private text/audio/image/video messages can be send from one user in a network to other in the same or different network. The messages are end to end encrypted.
-**4.  Search:** users can search other users in the same or other connected network. the profile name as well as profile picture will be displayed in search result.
-**5.  Unique user id** a unique user id will be generated for each users while installing the app. This user id along with profile name is used to identify a user in a network.  
-**6.  Call:**  users can make audio/video call with others in the same network.
-**7.  Groups:** users can create group and add other users in same network into the group. The unique user id of all users in same network and same groups are stored in all of the group members devices.This is done to share the group messages each other.
+**3.  Private message:** private text/audio/image/video messages can be send from one user in a network to other in the same or different network. The messages are end to end encrypted.  
+**4.  Search:** users can search other users in the same or other connected network. the profile name as well as profile picture will be displayed in search result.  
+**5.  Unique user id** a unique user id will be generated for each users while installing the app. This user id along with profile name is used to identify a user in a network.    
+**6.  Call:**  users can make audio/video call with others in the same network.  
+**7.  Groups:** users can create group and add other users in same network into the group. The unique user id of all users in same network and same groups are stored in all of the group members devices.This is done to share the group messages each other.  
 
 ### If you are a developer or an innovator then be part of this wonderful project.To join and contribute to the project drop a mail at:  
 ## nestainnovations@gmail.com

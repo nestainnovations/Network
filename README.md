@@ -8,7 +8,7 @@
 </p>
 
 ### How does it work if a user is isolated or not part of a network?
-Well, this might be a common case until the *Network app* become popular or till more users get installed this application. In this situation only any one of the user in a network can connect with the internet and connect with other network group or user through our server. By using the same method a user can connect with other user in overseas.Firebase server is used for this service.
+Well, this might be a common case until the *Network app* become popular or till more users get installed this application. In this situation only there is a need of internet connection for any one of the user in a network to connect with other network group or user through our server. By using the same method a user can connect with other user in overseas.Firebase server is used for this service.
 ## Features of Network App
 **1.  Wall:** users can post text/audio/image/video in a commmon wall. the posts in the wall will be public and is shared with others in the network and the other network which is connected.    
 **2.  Local Profile:** users can create a local profile and able to keep a profile picture as well as a profile name. This profile will be created in the device and not in server.This profile name and profile picture is used to identy each other in the network.  

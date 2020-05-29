@@ -21,3 +21,8 @@ Well, this might be a common case until the *Network app* become popular or till
 ### If you are a developer or an innovator then be part of this wonderful project.To join and contribute to the project drop a mail at:  
 ## nestainnovations@gmail.com
 
+## Related Projects
+Here are some related projects repositories in github. This is indented for a reference to the contributors and developers of **Network App**   
+**1. https://github.com/Shariq03/Wifidirect-Chat**    
+**2. https://github.com/life0fun/wifi-direct-chat**  
+**3. https://github.com/kajogo777/HiveChat  
